@@ -1,0 +1,4 @@
+__pycache__/
+.customer-user-model/
+.vscode/
+*.sqlite3
